@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/cate-maggie-problem/annotations/mp4-for-norma-sosa-canvas-1-interviwer.json",
+  "type": "AnnotationPage",
+  "label": "interviwer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mp4-for-norma-sosa-canvas-1-interviwer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Clarifying the interview and background information. Asking Background information.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/cate-maggie-problem/mp4-for-norma-sosa/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://lgsump.github.io/cate-maggie-problem/mp4-for-norma-sosa/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,33.0"
+        }
+      }
+    }
+  ]
+}
