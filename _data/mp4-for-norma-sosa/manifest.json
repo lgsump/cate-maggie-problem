@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/cate-maggie-problem/annotations/mp4-for-norma-sosa-canvas-1-interviewee.json",
-            "label": {
-              "none": ["interviewee"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/cate-maggie-problem/annotations/mp4-for-norma-sosa-canvas-1-interviwer.json",
             "label": {
               "none": ["interviwer"]
